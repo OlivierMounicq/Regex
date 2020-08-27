@@ -1,3 +1,3 @@
 # Regex
 
-<div>Bob</div>
+<div style="background-color: lightblue;">Bob</div>
